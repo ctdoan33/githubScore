@@ -1,0 +1,19 @@
+.wrapper{
+	border: 1pt solid black;
+}
+.input{
+	display: inline-block;
+	vertical-align: top;
+	width: 49%;
+	margin-left: 20px;
+}
+.output{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 45%;
+}
+.button{
+	margin: 20px 0px;
+	width: 300px;
+}
