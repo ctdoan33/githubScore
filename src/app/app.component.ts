@@ -35,5 +35,6 @@ export class AppComponent {
 				this.color="blue";
 			}
 		});
+		this.username="";
 	}
 }
